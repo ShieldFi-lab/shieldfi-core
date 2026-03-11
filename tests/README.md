@@ -8,5 +8,3 @@ Simulates the following ShieldFi MVP flow:
 3. Premium sent to CoveragePool
 4. Simulate parametric trigger
 5. ClaimManager executes payout
-
-Run using Hardhat or Remix JS VM.
